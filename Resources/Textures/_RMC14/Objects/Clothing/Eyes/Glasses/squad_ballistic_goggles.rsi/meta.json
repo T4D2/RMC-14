@@ -14,8 +14,16 @@
 	  "name": "lenses",
 	  "directions": 4
 	},
+	{
+	  "name": "lenses-vox",
+	  "directions": 4
+	},
     {
       "name": "equipped-EYES",
+      "directions": 4
+    },
+    {
+      "name": "equipped-EYES-vox",
       "directions": 4
     },
     {
