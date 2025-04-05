@@ -18,7 +18,15 @@
       "directions": 4
     },
     {
+      "name": "on-equipped-EYES-vox",
+      "directions": 4
+    },
+    {
       "name": "equipped-EYES",
+      "directions": 4
+    },
+    {
+      "name": "equipped-EYES-vox",
       "directions": 4
     },
     {
